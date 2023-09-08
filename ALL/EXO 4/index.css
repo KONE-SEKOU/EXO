@@ -1,0 +1,107 @@
+body{
+    background: linear-gradient(to right, rgb(7, 204, 66), rgb(42, 128, 209));
+}
+.all{
+    display: grid;
+    margin: 70px;
+    grid-template-columns: 30% 1fr 30%;
+}
+.header-1{
+    color: aliceblue;
+    display: grid;
+    grid-template-rows: 20% 1fr;
+    height: 500px;
+    font-size: 25px;
+}
+.black-block{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.blue-block{
+    background-color:rgb(10, 4, 58);
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header-3{
+    display: grid;
+    grid-template-rows: 20% 1fr;
+}
+.header-black{
+    background-color: black;
+    color: aliceblue;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.header-blue{
+background-color: rgb(10, 4, 58);
+color: aliceblue;
+font-size: 25px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.header-2{
+    display: grid;
+    grid-template-rows: 20% 1fr 20%;
+}
+.block-head-2{
+    background-color: black;
+    color: aliceblue;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.block-head-1{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    font-size: 25px;
+}
+.head-1{
+    background-color: cornflowerblue;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.head-2{
+    background-color: chartreuse;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.block-head-3{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    font-size: 25px;
+}
+.block-body-1{
+    background-color: cornflowerblue;
+    color: aliceblue;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.block-body-2{
+    background-color: chartreuse;
+    color: aliceblue;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.block-bla{
+    font-size: 15px;
+    
+}
